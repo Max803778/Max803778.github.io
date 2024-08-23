@@ -41,3 +41,7 @@ footer p{
 img{
     border: 3px solid yellow;
 }
+body{
+    margin-right: 60px;
+    margin-left: 60px;
+}
